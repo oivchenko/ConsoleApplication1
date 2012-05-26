@@ -11,11 +11,19 @@ namespace ConsoleApplication1
         {
 
             ////uiyuiyuiyuiyuiyu
+<<<<<<< HEAD
             // kkkkkk
 
+            Console.WriteLine("sdfsdfsdf");
+
+
+=======
+
+
 
             //  sdfsdfsdfsdf
             //  sdfsdfsdfsdf
+>>>>>>> xxx/branchtest01
         }
     }
 }
