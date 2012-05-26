@@ -12,6 +12,10 @@ namespace ConsoleApplication1
 
             ////uiyuiyuiyuiyuiyu
             // kkkkkk
+
+            Console.WriteLine("sdfsdfsdf");
+
+
         }
     }
 }
